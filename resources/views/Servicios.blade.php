@@ -129,7 +129,7 @@
     <div class="card shadow" style="width: 787.5px; height: 354px; margin: 100px auto 20px; padding: 23px;">
         <h2>Primer espacio</h2>
         <p>Ubicado en el pasillo central</p>
-        <img src="public/IMAGENES/Cespacio.jpg" alt="Espacio 1" style="width: 100%;">
+        <img src="public/IMAGENES/Aula1.jpg" alt="Espacio 1" style="width: 100%;">
         <p>Este aula ofrece un ambiente acogedor y versátil, ideal para reuniones colaborativas y sesiones de trabajo enfocadas en la resolución de problemas. Con su disposición flexible y equipamiento moderno, este espacio se adapta a una variedad de actividades, desde reuniones de equipo hasta presentaciones interactivas. Diseñado para fomentar la participación y la creatividad, este aula proporciona un entorno inspirador donde las ideas pueden fluir libremente y los proyectos pueden tomar forma con facilidad.</p>
         <a href="#reserva" class="reserve-btn" style="display: block; width: 337.5px; margin: 10px auto 0; text-align: center; line-height: 40px;">Reserva</a>
     </div>
@@ -137,7 +137,7 @@
     <div class="card shadow" style="width: 787.5px; height: 354px; margin: 20px auto 20px; padding: 23px;">
         <h2>Segundo espacio</h2>
         <p>Ubicado en el pasillo del edificio</p>
-        <img src="public/IMAGENES/Cespacio2.jpg" alt="Espacio 2" style="width: 100%;">
+        <img src="public/IMAGENES/Aula2.jpg" alt="Espacio 2" style="width: 100%;">
         <p>Este aula ofrece un espacio dinámico y moderno, perfecto para sesiones de colaboración y actividades grupales. Con su diseño versátil y tecnología de vanguardia, este espacio promueve la innovación y el intercambio de ideas. Desde talleres creativos hasta sesiones de lluvia de ideas, este aula proporciona el entorno ideal para desarrollar proyectos emocionantes y llevar las ideas a la vida.</p>
         <a href="#reserva" class="reserve-btn" style="display: block; width: 337.5px; margin: 10px auto 0; text-align: center; line-height: 40px;">Reserva</a>
     </div>
